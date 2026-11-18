@@ -1,0 +1,9 @@
+
+# Cover intermediate yosys artifacts,
+#they might be overly restrictive, tune later.
+**/*.json
+**/*.config
+**/*.bit
+
+oss-cad-suite/
+oss-cad-suite
